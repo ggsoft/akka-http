@@ -1,0 +1,21 @@
+body {
+  padding-top: 60px;
+  padding-bottom:10px;
+}
+
+label  {
+  padding: 3px;
+}
+
+.buttons {
+  padding: 3px;
+}
+
+.center{
+    text-align:center;
+}
+
+div li:hover{
+    color: #555;
+    background-color: #E7E7E7;
+}
