@@ -4,7 +4,6 @@ import app.model._
 import org.json4s.NoTypeHints
 import org.json4s.jackson.Serialization
 import akka.http.scaladsl.model.{ContentTypes, HttpEntity}
-import scala.io.Source
 
 package object action {
 
